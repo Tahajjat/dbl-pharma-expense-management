@@ -7,7 +7,7 @@ An Android App designed for pharmaceutical sales representatives to streamline t
 
 
 
-## Features
+## Key Features
 
 - **Expense Claims:** Easily log and manage daily expenses with category and description options.
 - **Approval Workflow:** Submit claims for approval and view approval status in real-time.
